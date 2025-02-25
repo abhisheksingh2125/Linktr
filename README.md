@@ -17,4 +17,4 @@ Database: MongoDB (with Mongoose ORM)
 Authentication: JWT (JSON Web Token)
 Security: bcrypt, helmet, express-rate-limit
 Environment Management: dotenv
-Testing: Jest, Supertest (optional)
+Testing: Jest
